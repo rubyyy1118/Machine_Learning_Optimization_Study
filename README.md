@@ -1,4 +1,4 @@
-# Machine_Learning_Optimization_Study
+# Machine Learning Classifier Optimization and Analysis
 ## 1. Project Overview
 
 The project aims to apply machine learning techniques—Support Vector Machine (SVM) and Neural Networks (NN)—to analyze the provided dataset and optimize classifiers for performance. The project compares the accuracy and training time of different machine learning models.
